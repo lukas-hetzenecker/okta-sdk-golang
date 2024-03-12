@@ -1,4 +1,4 @@
-module github.com/okta/okta-sdk-golang/v4
+module github.com/lukas-hetzenecker/okta-sdk-golang/v4
 
 go 1.20
 

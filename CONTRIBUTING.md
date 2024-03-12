@@ -23,7 +23,7 @@ Fork the code
 -------------
 
 In your browser, navigate to:
-[https://github.com/okta/okta-sdk-golang](https://github.com/okta/okta-sdk-golang)
+[https://github.com/lukas-hetzenecker/okta-sdk-golang](https://github.com/lukas-hetzenecker/okta-sdk-golang)
 
 Fork the repository by clicking on the 'Fork' button on the top right hand
 side.  The fork will happen and you will be taken to your own fork of the
@@ -37,7 +37,7 @@ the Okta Golang SDK:
 ``` bash
 $ git clone https://github.com/YOUR_ACCOUNT/okta-sdk-golang.git
 $ cd okta-sdk-golang
-$ git remote add upstream https://github.com/okta/okta-sdk-golang.git
+$ git remote add upstream https://github.com/lukas-hetzenecker/okta-sdk-golang.git
 $ git checkout master
 $ git fetch upstream
 $ git rebase upstream/master

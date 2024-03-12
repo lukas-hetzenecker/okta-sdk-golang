@@ -40,7 +40,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -115,7 +115,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -187,7 +187,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -253,7 +253,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -325,7 +325,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -396,7 +396,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -464,7 +464,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -535,7 +535,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -608,7 +608,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -684,7 +684,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -754,7 +754,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -826,7 +826,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -901,7 +901,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -971,7 +971,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -1037,7 +1037,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
@@ -1109,7 +1109,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {

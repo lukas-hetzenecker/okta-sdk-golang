@@ -30,7 +30,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```golang
-import okta "github.com/okta/okta-sdk-golang"
+import okta "github.com/lukas-hetzenecker/okta-sdk-golang"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY` or use configuration in okta.Configuration.Okta.Client.Proxy. 

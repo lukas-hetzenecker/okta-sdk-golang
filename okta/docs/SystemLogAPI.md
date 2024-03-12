@@ -26,7 +26,7 @@ import (
     "fmt"
     "os"
     "time"
-    openapiclient "github.com/okta/okta-sdk-golang"
+    openapiclient "github.com/lukas-hetzenecker/okta-sdk-golang"
 )
 
 func main() {
