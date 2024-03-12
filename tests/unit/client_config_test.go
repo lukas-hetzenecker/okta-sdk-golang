@@ -23,9 +23,9 @@ import (
 	"testing"
 
 	"github.com/jarcoal/httpmock"
-	"github.com/okta/okta-sdk-golang/v2/okta"
+	"github.com/lukas-hetzenecker/okta-sdk-golang/v2/okta"
 
-	"github.com/okta/okta-sdk-golang/v2/tests"
+	"github.com/lukas-hetzenecker/okta-sdk-golang/v2/tests"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -20,8 +20,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/okta/okta-sdk-golang/v2/okta/query"
-	"github.com/okta/okta-sdk-golang/v2/tests"
+	"github.com/lukas-hetzenecker/okta-sdk-golang/v2/okta/query"
+	"github.com/lukas-hetzenecker/okta-sdk-golang/v2/tests"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

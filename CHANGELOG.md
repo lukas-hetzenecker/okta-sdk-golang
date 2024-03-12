@@ -67,12 +67,12 @@ Okta SDK Golang release in conjunction with [v2.13.0 of the Okta OpenAPI Specifi
 
  - Added properties `host`, `integrationKey`, and `secretKey` to `AuthenticatorProviderConfiguration` model to support Duo Authenticator [openapi-2.13.0](https://github.com/okta/okta-management-openapi-spec/releases/tag/openapi-2.13.0)
  - Renamed query parameter `search` to `filter` on `GET /api/v1/groups` endpoint [openapi-2.13.0](https://github.com/okta/okta-management-openapi-spec/releases/tag/openapi-2.13.0)
- - New feature, SDK client can authenticate with Bearer token orienting the SDK client to the security scope of a specific application [#310](https://github.com/okta/okta-sdk-golang/pull/310)
- - Added ability to specify JWT kid header  [#308](https://github.com/okta/okta-sdk-golang/pull/308)
+ - New feature, SDK client can authenticate with Bearer token orienting the SDK client to the security scope of a specific application [#310](https://github.com/lukas-hetzenecker/okta-sdk-golang/pull/310)
+ - Added ability to specify JWT kid header  [#308](https://github.com/lukas-hetzenecker/okta-sdk-golang/pull/308)
 
 ### Bug fixes
 
- - Schema API calls with one of / enum values will have correct type when calling API [#312](https://github.com/okta/okta-sdk-golang/pull/312)
+ - Schema API calls with one of / enum values will have correct type when calling API [#312](https://github.com/lukas-hetzenecker/okta-sdk-golang/pull/312)
 
 
 ## v2.12.1
@@ -438,7 +438,7 @@ Release of openapispec 2.10.0
 - `WebAuthnUserFactorProfile`
 
 ### Bug Fixes
-- Updates `okta/config.go` to use `github.com/okta/okta-sdk-golang/v2/okta/cache` (#167, Resolves #149)
+- Updates `okta/config.go` to use `github.com/lukas-hetzenecker/okta-sdk-golang/v2/okta/cache` (#167, Resolves #149)
 - Updates `okta/config.go` to use `int64` for `ConnectionTimeout` and `RequestTimeout` (#166)
 - `ListApplicationTargetsForApplicationAdministratorRoleForGroup` now returns correct `[]CatalogApplication`
 - `ListApplicationTargetsForApplicationAdministratorRoleForUser` now returns correct `[]CatalogApplication`
